@@ -1,0 +1,23 @@
+h1{
+    display: inline;
+    background-color : orange ;
+}
+
+
+body{
+    display: inline;
+    background-color: rgba(123, 224, 241, 0.904)
+
+}
+p.paratwo{
+    display: inline;
+    background-color: yellow
+}
+p.parafour{
+    display: inline;
+    background-color: rgba(236, 124, 124, 0.932)
+}
+p.parafive{
+    display: inline;
+    background-color: rgb(4, 219, 4)
+}
